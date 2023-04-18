@@ -1,2 +1,3 @@
 # Random Json Generator
- Faker.Js Project
+ 
+ python using automate json generated.
